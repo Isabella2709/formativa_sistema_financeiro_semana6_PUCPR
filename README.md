@@ -1,4 +1,4 @@
-#Sistema atualizado com Lista contendo os financiamentos#
+# Sistema atualizado com Lista contendo os financiamentos #
 
 1. Todos os requisitos das semanas anteriores.
 
